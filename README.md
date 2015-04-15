@@ -17,3 +17,5 @@ oo
 
 
 zmiana 14:42
+
+zmiana 14:44
